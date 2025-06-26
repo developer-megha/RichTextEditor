@@ -36,8 +36,7 @@ Supports all essential formatting features and rich media insertion like images,
 
 ## 🛠️ Installation
 
-### Step 1: Add JitPack to your `settings.gradle.kts`
-
+### Step 1: Add JitPack to your `settings.gradle.kts` 
 ```kotlin
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
@@ -48,9 +47,10 @@ dependencyResolutionManagement {
     }
 }
 
-### Step 1: Add the dependency
-
+### Step 2: Add the dependency
 ```kotlin
 dependencies {
     implementation("com.github.developer-megha:RichTextEditor:1.0") // latest version
 }
+
+
