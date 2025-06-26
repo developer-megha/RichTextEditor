@@ -7,7 +7,7 @@ Supports all essential formatting features and rich media insertion like images,
 
 ## 🎥 Demo Video
 
-👉 [Click to Watch the Demo](https://github.com/your-username/your-repo/assets/demo.mp4?raw=true)
+👉 [Click to Watch the Demo](https://github.com/developer-megha/RichTextEditor/blob/main/app/src/main/assets/demo_video.mp4?raw=true)
 
 ---
 
@@ -52,5 +52,5 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("com.github.developer-megha:RichTextEditor:Tag") // replace Tag with latest release
+    implementation("com.github.developer-megha:RichTextEditor:1.0") // latest version
 }
