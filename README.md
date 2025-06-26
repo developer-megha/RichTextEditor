@@ -5,11 +5,9 @@ Supports all essential formatting features and rich media insertion like images,
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo Video
 
-https://user-images.githubusercontent.com/your-github-id/demo-video.mp4  
-<!-- Or YouTube video embed: -->
-[![Watch the demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+👉 [Click to Watch the Demo](https://github.com/your-username/your-repo/assets/demo.mp4?raw=true)
 
 ---
 
@@ -48,4 +46,11 @@ dependencyResolutionManagement {
         mavenCentral()
         maven { url = uri("https://jitpack.io") }
     }
+}
+
+### Step 1: Add the dependency
+
+```kotlin
+dependencies {
+    implementation("com.github.developer-megha:RichTextEditor:Tag") // replace Tag with latest release
 }
