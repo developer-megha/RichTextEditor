@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <layer-list>
+            <!-- Arrow -->
+            <item
+                android:height="9dp"
+                android:width="15dp"
+                android:top="18dp"
+                android:bottom="18dp"
+                android:end="22dp"
+                android:gravity="end"
+                android:drawable="@drawable/ic_drop_down">
+            </item>
+            <!---->
+        </layer-list>
+    </item>
+
+</layer-list>
+
+
